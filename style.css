@@ -1,0 +1,17 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #121317;
+}
+button{
+	background-color: #C0C0C0;
+	border: none;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 80%;
+	padding: 10px 15px;
+	font-size: 10px;
+	font-weight: bold;
+
+}
